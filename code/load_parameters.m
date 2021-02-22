@@ -19,7 +19,9 @@ T_cur = 0.5;
 T_traj = T_cur;
 
 % Final time
-n_T = 20;
+dt = 1e-3;
+
+n_T = 40;
 tf = n_T*T_traj;
 
 % Saturation parameters
