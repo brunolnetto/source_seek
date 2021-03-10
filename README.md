@@ -4,7 +4,9 @@ Source seeking with mobile omnirobot
 
 # Dependencies
 
-  >> loadlibs
+  ```
+    loadlibs
+  ```
   
 # Requirements
 
